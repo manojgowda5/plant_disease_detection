@@ -5,24 +5,7 @@
 
 
 
-# Libraries Used:
-1.keras
 
-2.Flask
-
-3.pickle
-
-4.Pandas
-
-5.Numpy
-
-6.Sci-kit Learn
-
-7.Bootstrap
-
-8.HTML & CSS , Javascript , Python
-
-This whole Project is Deployed using Flask
 
 
 
@@ -77,6 +60,24 @@ The Plant Disease Detection project leverages the power of machine learning to i
     python app.py
     ```
 
+# Libraries Used:
+1.keras
+
+2.Flask
+
+3.pickle
+
+4.Pandas
+
+5.Numpy
+
+6.Sci-kit Learn
+
+7.Bootstrap
+
+8.HTML & CSS , Javascript , Python
+
+This whole Project is Deployed using Flask
 ## Usage
 1. Navigate to the application interface.
 2. Upload an image of a plant.
@@ -91,9 +92,6 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
-- Thanks to [data source] for providing the dataset.
-- Inspired by research in agricultural technology and machine learning.
 
 ## Contact
 For questions or comments, please contact [Manoj R] at [Manojgowdar50@gmail.com].
