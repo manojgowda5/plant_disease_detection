@@ -78,6 +78,9 @@ The Plant Disease Detection project leverages the power of machine learning to i
 8.HTML & CSS , Javascript , Python
 
 This whole Project is Deployed using Flask
+
+##Model training
+To know the training of these models you can visit the repo  https://github.com/manojgowda5/potato_detection_model
 ## Usage
 1. Navigate to the application interface.
 2. Upload an image of a plant.
