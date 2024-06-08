@@ -32,7 +32,7 @@ The Plant Disease Detection project leverages the power of machine learning to i
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/manojgowda5/plant_disease_detection
+    git clone https://github.com/manojgowda5/plant_disease_detection.git
     cd plant_disease_detection
     ```
 
